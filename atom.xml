@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://shmilymaf.github.io/"/>
-  <updated>2017-06-25T09:44:31.918Z</updated>
+  <updated>2017-06-24T12:43:12.417Z</updated>
   <id>https://shmilymaf.github.io/</id>
   
   <author>
@@ -14,34 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://shmilymaf.github.io/2017/06/24/test/"/>
-    <id>https://shmilymaf.github.io/2017/06/24/test/</id>
-    <published>2017-06-24T14:40:42.000Z</published>
-    <updated>2017-06-25T09:44:31.918Z</updated>
-    
-    <content type="html"><![CDATA[<p>第一个测试 有水雾</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;第一个测试 有水雾&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="搭建博客" scheme="https://shmilymaf.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    
-    
-      <category term="npm" scheme="https://shmilymaf.github.io/tags/npm/"/>
-    
-      <category term="hexo" scheme="https://shmilymaf.github.io/tags/hexo/"/>
-    
-      <category term="github" scheme="https://shmilymaf.github.io/tags/github/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
