@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://shmilymaf.github.io/"/>
+  <link href="https://shmilymaf.github.io/"/>
   <updated>2017-06-25T04:24:44.152Z</updated>
-  <id>http://shmilymaf.github.io/</id>
+  <id>https://shmilymaf.github.io/</id>
   
   <author>
     <name>aaYu_Jane</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://shmilymaf.github.io/2017/06/24/test/"/>
-    <id>http://shmilymaf.github.io/2017/06/24/test/</id>
+    <link href="https://shmilymaf.github.io/2017/06/24/test/"/>
+    <id>https://shmilymaf.github.io/2017/06/24/test/</id>
     <published>2017-06-24T14:40:42.000Z</published>
     <updated>2017-06-25T04:24:44.152Z</updated>
     
@@ -37,8 +37,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://shmilymaf.github.io/2017/06/24/hello-world/"/>
-    <id>http://shmilymaf.github.io/2017/06/24/hello-world/</id>
+    <link href="https://shmilymaf.github.io/2017/06/24/hello-world/"/>
+    <id>https://shmilymaf.github.io/2017/06/24/hello-world/</id>
     <published>2017-06-24T12:43:12.417Z</published>
     <updated>2017-06-24T12:43:12.417Z</updated>
     
